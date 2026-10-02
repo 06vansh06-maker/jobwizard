@@ -1,0 +1,6 @@
+{
+  "name": "System Jobs",
+  "description": "A neubrutalist retro-futuristic job terminal and system configurations catalog inspired by 1996 enterprise workspaces, featuring high-contrast layout grids, CRT terminal shader overlays, and a Pentium Pro order tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
